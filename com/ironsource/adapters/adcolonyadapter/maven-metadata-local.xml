@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.ironsource.adapters</groupId>
+  <artifactId>adcolonyadapter</artifactId>
+  <versioning>
+    <release>4.3.0</release>
+    <versions>
+      <version>3.0.0</version>
+      <version>3.0.1</version>
+      <version>3.2.0</version>
+      <version>3.2.1</version>
+      <version>3.2.2</version>
+      <version>4.0.0</version>
+      <version>4.0.1</version>
+      <version>4.1.0</version>
+      <version>4.1.1</version>
+      <version>4.1.10</version>
+      <version>4.1.2</version>
+      <version>4.1.3</version>
+      <version>4.1.4</version>
+      <version>4.1.5</version>
+      <version>4.1.6</version>
+      <version>4.1.7</version>
+      <version>4.1.8</version>
+      <version>4.1.9</version>
+      <version>4.3.0</version>
+    </versions>
+    <lastUpdated>20210221081331</lastUpdated>
+  </versioning>
+</metadata>
