@@ -7,8 +7,8 @@ for d in /Users/alond/Downloads/android-adapters/* ; do
 	    file=$(echo $e | sed "s/\Users\/alond\/Downloads\/android-adapters\/'$adapters'\.*//")
 	    newFile=$(echo $file | sed 's/\///')
 		#echo $newFile
-	    echo 'mvn install:install-file -DgroupId=com.ironsource.adapters -DartifactId='$adapters' -Dversion='$newFile' -Dfile=/Users/alond/Downloads/android-adapters/'$adapters'/'$newFile'/'$adapters'-'$newFile'.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=.  -DcreateChecksum=true'
-		mvn install:install-file -DgroupId=com.ironsource.adapters -DartifactId=$adapters -Dversion=$newFile -Dfile=/Users/alond/Downloads/android-adapters/$adapters/$newFile/$adapters-$newFile.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=/Users/alond/Workspace/android-adapters  -DcreateChecksum=true
+	    #echo 'mvn install:install-file -DgroupId=com.ironsource.adapters -DartifactId='$adapters' -Dversion='$newFile' -Dfile=/Users/alond/Downloads/android-adapters/'$adapters'/'$newFile'/'$adapters'-'$newFile'.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=.  -DcreateChecksum=true'
+		mvn install:install-file -DgroupId=com.ironsource.adapters -DartifactId=$adapters -Dversion=$newFile -Dfile=/Users/alond/Downloads/android-adapters/$adapters/$newFile/$adapters-$newFile.aar -Dpackaging=aar -DgeneratePom=true -DlocalRepositoryPath=/Users/alond/Workspace/android-adapters  -DcreateChecksum=true
 
 	done
     #echo 'mvn install:install-file -DgroupId=com.ironsource.sdk -DartifactId=mediationsdk -Dversion='$newFile' -Dfile=/Users/alond/Downloads/android-adapters//'$newFile'/'$adapters'-'$newFile'.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=.  -DcreateChecksum=true'
