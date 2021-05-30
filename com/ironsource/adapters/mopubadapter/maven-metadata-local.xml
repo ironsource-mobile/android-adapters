@@ -3,10 +3,11 @@
   <groupId>com.ironsource.adapters</groupId>
   <artifactId>mopubadapter</artifactId>
   <versioning>
-    <release>4.3.0</release>
+    <release>4.3.1</release>
     <versions>
       <version>4.3.0</version>
+      <version>4.3.1</version>
     </versions>
-    <lastUpdated>20210425122316</lastUpdated>
+    <lastUpdated>20210530111052</lastUpdated>
   </versioning>
 </metadata>
