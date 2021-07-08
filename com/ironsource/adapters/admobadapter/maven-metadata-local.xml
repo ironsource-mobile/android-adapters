@@ -3,7 +3,7 @@
   <groupId>com.ironsource.adapters</groupId>
   <artifactId>admobadapter</artifactId>
   <versioning>
-    <release>4.3.20</release>
+    <release>4.3.21</release>
     <versions>
       <version>3.0.0</version>
       <version>3.0.1</version>
@@ -47,7 +47,8 @@
       <version>4.3.18</version>
       <version>4.3.19</version>
       <version>4.3.20</version>
+      <version>4.3.21</version>
     </versions>
-    <lastUpdated>20210520125831</lastUpdated>
+    <lastUpdated>20210708130830</lastUpdated>
   </versioning>
 </metadata>
