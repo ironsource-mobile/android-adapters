@@ -3,7 +3,7 @@
   <groupId>com.ironsource.adapters</groupId>
   <artifactId>facebookadapter</artifactId>
   <versioning>
-    <release>4.3.30</release>
+    <release>4.3.31</release>
     <versions>
       <version>3.0.0</version>
       <version>3.0.1</version>
@@ -57,7 +57,8 @@
       <version>4.3.28</version>
       <version>4.3.29</version>
       <version>4.3.30</version>
+      <version>4.3.31</version>
     </versions>
-    <lastUpdated>20210901115304</lastUpdated>
+    <lastUpdated>20211021090403</lastUpdated>
   </versioning>
 </metadata>
