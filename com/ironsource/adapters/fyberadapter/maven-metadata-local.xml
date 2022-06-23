@@ -3,7 +3,7 @@
   <groupId>com.ironsource.adapters</groupId>
   <artifactId>fyberadapter</artifactId>
   <versioning>
-    <release>4.3.19</release>
+    <release>4.3.20</release>
     <versions>
       <version>4.1.0</version>
       <version>4.2.0</version>
@@ -27,7 +27,8 @@
       <version>4.3.17</version>
       <version>4.3.18</version>
       <version>4.3.19</version>
+      <version>4.3.20</version>
     </versions>
-    <lastUpdated>20220405072008</lastUpdated>
+    <lastUpdated>20220623154308</lastUpdated>
   </versioning>
 </metadata>
