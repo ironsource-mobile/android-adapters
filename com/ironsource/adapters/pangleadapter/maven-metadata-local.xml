@@ -3,7 +3,7 @@
   <groupId>com.ironsource.adapters</groupId>
   <artifactId>pangleadapter</artifactId>
   <versioning>
-    <release>4.3.20</release>
+    <release>4.3.21</release>
     <versions>
       <version>4.1.0</version>
       <version>4.1.1</version>
@@ -32,7 +32,8 @@
       <version>4.3.18</version>
       <version>4.3.19</version>
       <version>4.3.20</version>
+      <version>4.3.21</version>
     </versions>
-    <lastUpdated>20230612132423</lastUpdated>
+    <lastUpdated>20230816124934</lastUpdated>
   </versioning>
 </metadata>
