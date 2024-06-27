@@ -1,6 +1,6 @@
 # Android Adapters 
 
-Turn your app into a business with LevelPlay. Maximize your ad revenue, grow your user base and optimize your monetization strategy, all from one powerful platform.
+Turn your app into a business with [LevelPlay](https://www.is.com/). Maximize your ad revenue, grow your user base and optimize your monetization strategy, all from one powerful platform.
 
 ## Getting Started
 Use this documentation to integrate the LevelPlay mediated networks:
