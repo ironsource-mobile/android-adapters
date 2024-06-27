@@ -2,7 +2,7 @@
 
 Turn your app into a business with LevelPlay. Maximize your ad revenue, grow your user base and optimize your monetization strategy, all from one powerful platform.
 
-## Getting started
+## Getting Started
 Use this documentation to integrate the LevelPlay mediated networks:
 https://developers.ironsrc.com/ironsource-mobile/android/mediation-networks-android/
 
