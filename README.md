@@ -4,7 +4,7 @@ Turn your app into a business with [LevelPlay](https://www.is.com/). Maximize yo
 
 ## Getting Started
 Use this documentation to integrate the LevelPlay mediated networks:
-https://developers.ironsrc.com/ironsource-mobile/android/mediation-networks-android/
+https://developers.is.com/ironsource-mobile/android/mediation-networks-android/
 
 
 ## Contact Us
