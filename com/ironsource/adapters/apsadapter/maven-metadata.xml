@@ -3,10 +3,11 @@
   <groupId>com.ironsource.adapters</groupId>
   <artifactId>apsadapter</artifactId>
   <versioning>
-    <release>4.3.12</release>
+    <release>4.3.13</release>
     <versions>
       <version>4.3.12</version>
+      <version>4.3.13</version>
     </versions>
-    <lastUpdated>20240415092346</lastUpdated>
+    <lastUpdated>20240708115436</lastUpdated>
   </versioning>
 </metadata>
