@@ -3,7 +3,7 @@
   <groupId>com.ironsource.adapters</groupId>
   <artifactId>mintegraladapter</artifactId>
   <versioning>
-    <release>4.3.34</release>
+    <release>4.3.35</release>
     <versions>
       <version>4.3.25</version>
       <version>4.3.26</version>
@@ -15,7 +15,8 @@
       <version>4.3.32</version>
       <version>4.3.33</version>
       <version>4.3.34</version>
+      <version>4.3.35</version>
     </versions>
-    <lastUpdated>20250107095612</lastUpdated>
+    <lastUpdated>20250112104244</lastUpdated>
   </versioning>
 </metadata>
