@@ -3,12 +3,13 @@
   <groupId>com.ironsource.adapters</groupId>
   <artifactId>smaatoadapter</artifactId>
   <versioning>
-    <release>4.3.12</release>
+    <release>4.3.13</release>
     <versions>
       <version>4.3.10</version>
       <version>4.3.11</version>
       <version>4.3.12</version>
+      <version>4.3.13</version>
     </versions>
-    <lastUpdated>20241022072015</lastUpdated>
+    <lastUpdated>20250121170633</lastUpdated>
   </versioning>
 </metadata>
