@@ -3,7 +3,7 @@
   <groupId>com.ironsource.adapters</groupId>
   <artifactId>molocoadapter</artifactId>
   <versioning>
-    <release>4.3.16</release>
+    <release>4.3.17</release>
     <versions>
       <version>4.3.0</version>
       <version>4.3.2</version>
@@ -21,7 +21,8 @@
       <version>4.3.14</version>
       <version>4.3.15</version>
       <version>4.3.16</version>
+      <version>4.3.17</version>
     </versions>
-    <lastUpdated>20250324103924</lastUpdated>
+    <lastUpdated>20250427115451</lastUpdated>
   </versioning>
 </metadata>
