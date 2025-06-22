@@ -3,7 +3,7 @@
   <groupId>com.ironsource.adapters</groupId>
   <artifactId>yandexadapter</artifactId>
   <versioning>
-    <release>4.3.11</release>
+    <release>4.3.12</release>
     <versions>
       <version>4.3.0</version>
       <version>4.3.1</version>
@@ -17,7 +17,8 @@
       <version>4.3.9</version>
       <version>4.3.10</version>
       <version>4.3.11</version>
+      <version>4.3.12</version>
     </versions>
-    <lastUpdated>20250616122844</lastUpdated>
+    <lastUpdated>20250622113612</lastUpdated>
   </versioning>
 </metadata>
