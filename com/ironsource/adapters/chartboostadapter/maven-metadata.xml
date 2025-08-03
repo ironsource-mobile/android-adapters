@@ -3,7 +3,7 @@
   <groupId>com.ironsource.adapters</groupId>
   <artifactId>chartboostadapter</artifactId>
   <versioning>
-    <release>4.3.21</release>
+    <release>4.3.22</release>
     <versions>
       <version>4.3.16</version>
       <version>4.3.17</version>
@@ -11,7 +11,8 @@
       <version>4.3.19</version>
       <version>4.3.20</version>
       <version>4.3.21</version>
+      <version>4.3.22</version>
     </versions>
-    <lastUpdated>20250721093240</lastUpdated>
+    <lastUpdated>20250803135449</lastUpdated>
   </versioning>
 </metadata>
