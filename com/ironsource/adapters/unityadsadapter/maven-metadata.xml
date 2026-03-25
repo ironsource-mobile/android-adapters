@@ -3,7 +3,7 @@
   <groupId>com.ironsource.adapters</groupId>
   <artifactId>unityadsadapter</artifactId>
   <versioning>
-    <release>4.3.64</release>
+    <release>4.3.65</release>
     <versions>
       <version>4.3.35</version>
       <version>4.3.36</version>
@@ -38,7 +38,8 @@
       <version>4.3.62</version>
       <version>4.3.63</version>
       <version>4.3.64</version>
+      <version>4.3.65</version>
     </versions>
-    <lastUpdated>20260126081352</lastUpdated>
+    <lastUpdated>20260325095711</lastUpdated>
   </versioning>
 </metadata>
